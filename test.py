@@ -1,1 +1,1 @@
-print ("Pozdrav iz aplikacije od Kristian Dzoic, broj indeksa : 123456789")
+print ("Pozdrav iz aplikacije od Kristian Dzoic")
